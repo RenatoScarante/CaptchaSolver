@@ -1,0 +1,91 @@
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\RecogCaptcha.exe.config
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\RecogCaptcha.exe
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\RecogCaptcha.pdb
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\AForge.dll
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\AForge.Imaging.dll
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\Tesseract.dll
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\AForge.Math.dll
+C:\Projetos\RecogCaptcha\RecogCaptcha\obj\Debug\RecogCaptcha.csprojResolveAssemblyReference.cache
+C:\Projetos\RecogCaptcha\RecogCaptcha\obj\Debug\RecogCaptcha.Form1.resources
+C:\Projetos\RecogCaptcha\RecogCaptcha\obj\Debug\RecogCaptcha.Properties.Resources.resources
+C:\Projetos\RecogCaptcha\RecogCaptcha\obj\Debug\RecogCaptcha.csproj.GenerateResource.Cache
+C:\Projetos\RecogCaptcha\RecogCaptcha\obj\Debug\RecogCaptcha.exe
+C:\Projetos\RecogCaptcha\RecogCaptcha\obj\Debug\RecogCaptcha.pdb
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\libtesseract302.dll
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\tessdata\eng.cube.bigrams
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\tessdata\eng.cube.fold
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\tessdata\eng.cube.lm
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\tessdata\eng.cube.nn
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\tessdata\eng.cube.params
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\tessdata\eng.cube.size
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\tessdata\eng.cube.word-freq
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\tessdata\eng.tesseract_cube.nn
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\tessdata\eng.traineddata
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\liblept168.dll
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\bin\Debug\liblept168.dll
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\bin\Debug\libtesseract302.dll
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\bin\Debug\x64\liblept172.dll
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\bin\Debug\x64\libtesseract304.dll
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\bin\Debug\x86\liblept172.dll
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\bin\Debug\x86\libtesseract304.dll
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\bin\Debug\tessdata\eng.cube.bigrams
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\bin\Debug\tessdata\eng.cube.fold
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\bin\Debug\tessdata\eng.cube.lm
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\bin\Debug\tessdata\eng.cube.nn
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\bin\Debug\tessdata\eng.cube.params
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\bin\Debug\tessdata\eng.cube.size
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\bin\Debug\tessdata\eng.cube.word-freq
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\bin\Debug\tessdata\eng.tesseract_cube.nn
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\bin\Debug\tessdata\eng.traineddata
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\bin\Debug\RecogCaptcha.exe.config
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\bin\Debug\RecogCaptcha.exe
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\bin\Debug\RecogCaptcha.pdb
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\bin\Debug\AForge.dll
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\bin\Debug\AForge.Imaging.dll
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\bin\Debug\AForge.Math.dll
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\bin\Debug\Tesseract.dll
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\bin\Debug\AForge.xml
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\bin\Debug\AForge.Imaging.xml
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\bin\Debug\AForge.Math.xml
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\bin\Debug\Tesseract.xml
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\obj\Debug\RecogCaptcha.csprojResolveAssemblyReference.cache
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\obj\Debug\RecogCaptcha.Form1.resources
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\obj\Debug\RecogCaptcha.Properties.Resources.resources
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\obj\Debug\RecogCaptcha.csproj.GenerateResource.Cache
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\obj\Debug\RecogCaptcha.csproj.CoreCompileInputs.cache
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\obj\Debug\RecogCaptcha.exe
+D:\Projetos\GitHub\RecogCaptcha\RecogCaptcha\obj\Debug\RecogCaptcha.pdb
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\bin\Debug\liblept168.dll
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\bin\Debug\libtesseract302.dll
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\bin\Debug\tessdata\eng.cube.bigrams
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\bin\Debug\tessdata\eng.cube.fold
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\bin\Debug\tessdata\eng.cube.lm
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\bin\Debug\tessdata\eng.cube.nn
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\bin\Debug\tessdata\eng.cube.params
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\bin\Debug\tessdata\eng.cube.size
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\bin\Debug\tessdata\eng.cube.word-freq
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\bin\Debug\tessdata\eng.tesseract_cube.nn
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\bin\Debug\tessdata\eng.traineddata
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\bin\Debug\RecogCaptcha.exe.config
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\bin\Debug\RecogCaptcha.exe
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\bin\Debug\RecogCaptcha.pdb
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\bin\Debug\AForge.dll
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\bin\Debug\AForge.Imaging.dll
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\bin\Debug\AForge.Math.dll
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\bin\Debug\Tesseract.dll
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\bin\Debug\AForge.xml
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\bin\Debug\AForge.Imaging.xml
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\bin\Debug\AForge.Math.xml
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\obj\Debug\RecogCaptcha.Properties.Resources.resources
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\obj\Debug\RecogCaptcha.csproj.GenerateResource.cache
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\obj\Debug\RecogCaptcha.csproj.CoreCompileInputs.cache
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\obj\Debug\RecogCaptcha.csproj.CopyComplete
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\obj\Debug\RecogCaptcha.exe
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\obj\Debug\RecogCaptcha.pdb
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\obj\Debug\RecogCaptcha.csprojAssemblyReference.cache
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\bin\Debug\x86\liblept1753.dll
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\bin\Debug\x86\libtesseract3052.dll
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\bin\Debug\x64\liblept1753.dll
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\bin\Debug\x64\libtesseract3052.dll
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\obj\Debug\RecogCaptcha.Form2.resources
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2017\Projects\RecogCaptcha-master\RecogCaptcha\obj\Debug\RecogCaptcha.Form1.resources
